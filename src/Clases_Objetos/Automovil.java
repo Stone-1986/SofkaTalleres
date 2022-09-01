@@ -2,7 +2,8 @@ package Clases_Objetos;
 
 /**
  * Representa a una clase Automovil, sus atributos y métodos
- * * @author: Jonathan Fonseca Clavijo
+ * @author: Jonathan Fonseca Clavijo
+ * https://github.com/Stone-1986/SofkaTalleres.git
  */
 public class Automovil {
 

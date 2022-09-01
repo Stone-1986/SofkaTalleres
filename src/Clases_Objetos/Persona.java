@@ -4,7 +4,8 @@ import java.util.Date;
 
 /**
  * Representa a una clase Persona, sus atributos y métodos
- * * @author: Jonathan Fonseca Clavijo
+ * @author: Jonathan Fonseca Clavijo
+ * https://github.com/Stone-1986/SofkaTalleres.git
  */
 public class Persona {
 

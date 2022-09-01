@@ -3,6 +3,7 @@ package Clases_Objetos;
 /**
  * Representa a una clase Persona, sus atributos y métodos
  * * @author: Jonathan Fonseca Clavijo
+ * https://github.com/Stone-1986/SofkaTalleres.git
  */
 public class Animal {
 
