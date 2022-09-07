@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 /**
- *
+ *Clase agencia Espacial, permite la creación y consulta de naves espaciales
  */
 public class AgenciaEspacial {
 

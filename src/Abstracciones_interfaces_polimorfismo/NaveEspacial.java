@@ -1,7 +1,9 @@
 package Abstracciones_interfaces_polimorfismo;
 
 /**
- *
+ * Clase abstracta que permite modelar diferentes tipos de naves espaciales
+ * @author: Jonathan Fonseca Clavijo
+ * https://github.com/Stone-1986/SofkaTalleres.git
  */
 public abstract class NaveEspacial {
     /**

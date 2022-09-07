@@ -1,7 +1,9 @@
 package Abstracciones_interfaces_polimorfismo;
 
 /**
- *
+ * clase que permite modelar una nave espacial de tipo Robot
+ * @author: Jonathan Fonseca Clavijo
+ * https://github.com/Stone-1986/SofkaTalleres.git
  */
 public class Robot extends NaveEspacial{
 
