@@ -3,7 +3,7 @@ package Abstracciones_interfaces_polimorfismo;
 /**
  * clase que permite modelar una nave espacial de tipo lanzador
  * @author: Jonathan Fonseca Clavijo
- * ttps://github.com/Stone-1986/SofkaTalleres.git
+ * https://github.com/Stone-1986/SofkaTalleres.git
  */
 public class Lanzador extends NaveEspacial {
 
