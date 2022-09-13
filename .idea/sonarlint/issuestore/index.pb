@@ -1,6 +1,4 @@
 
-9
-	Sofka.iml,d\e\deaecef58c097b7610bc2c9bcac441384eac54ea
 Q
 !src/Clases_Objetos/Automovil.java,4\9\49d4cd20d65958d75bb09d6131a78286444136fa
 M
