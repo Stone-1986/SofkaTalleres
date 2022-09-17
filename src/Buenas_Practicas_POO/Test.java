@@ -1,4 +1,4 @@
-package buenas_practicas_POO;
+package Buenas_Practicas_POO;
 
 public class Test {
 

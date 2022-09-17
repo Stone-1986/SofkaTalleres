@@ -1,4 +1,4 @@
-package Abstracciones_interfaces_polimorfismo;
+package Abstracciones_Interfaces_Polimorfismo;
 
 /**
  * Clase abstracta que permite modelar diferentes tipos de naves espaciales

@@ -1,4 +1,4 @@
-package buenas_practicas_POO;
+package Buenas_Practicas_POO;
 
 /**
  * esta ENUM contine los valores constantes de los tipos de música

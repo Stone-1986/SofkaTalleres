@@ -1,4 +1,4 @@
-package Abstracciones_interfaces_polimorfismo;
+package Abstracciones_Interfaces_Polimorfismo;
 
 import java.util.ArrayList;
 import java.util.Iterator;

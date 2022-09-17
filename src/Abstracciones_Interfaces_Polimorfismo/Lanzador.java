@@ -1,4 +1,4 @@
-package Abstracciones_interfaces_polimorfismo;
+package Abstracciones_Interfaces_Polimorfismo;
 
 /**
  * clase que permite modelar una nave espacial de tipo lanzador

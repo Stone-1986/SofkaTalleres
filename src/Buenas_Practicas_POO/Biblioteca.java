@@ -1,4 +1,4 @@
-package buenas_practicas_POO;
+package Buenas_Practicas_POO;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -124,6 +124,10 @@ public class Biblioteca {
         System.out.println("Playlist " + namePlaylist + " creada con éxito");
     }
 
+    /**
+     * Sobrescribe el método toString para mostrar el estado o el valor de los atributos de un objeto en un instante
+     * @return cadena con el valor de los atributos
+     */
     @Override
     public String toString() {
         return "Biblioteca{" +
